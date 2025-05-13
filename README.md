@@ -1,6 +1,6 @@
-# 💼 Recruiter AI: An Advanced Real-Time Job Recommender and Resume Analyzer 🤖
+# Job Finder: An Advanced Real-Time Job Recommender and Resume Analyzer
 
-Welcome to the **Recruiter AI** project repository! 🌟
+Welcome to the **Recruiter AI** project repository!
 
 ## Project Overview
 
