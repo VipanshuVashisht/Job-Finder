@@ -36,3 +36,25 @@ This project focuses on implementing a resume screening and job recommendation s
 - Key Components:
   - Web scraping techniques
   - Data enrichment
+ 
+### 5. Results
+
+- Home Page
+  ![image](https://github.com/user-attachments/assets/915f1636-ed81-438e-9f30-6d69277a8d90)
+
+- Upload Resume and Job Description
+  ![image](https://github.com/user-attachments/assets/cd4b7601-20d0-4319-bb8f-13b1d58f57ab)
+
+- Predicted Result
+  ![image](https://github.com/user-attachments/assets/c1cb2a62-09d8-4c1d-8e25-3cf3f06d478d)
+
+- Skill Recommendation
+  ![image](https://github.com/user-attachments/assets/c0b97575-7590-4d80-85f7-52a18a010013)
+
+- Job Opportunities
+  ![image](https://github.com/user-attachments/assets/0231bc3b-d036-401a-9449-771558f1c819)
+
+
+
+
+
